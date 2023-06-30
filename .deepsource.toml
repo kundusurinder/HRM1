@@ -6,6 +6,9 @@ name = "ansible"
 [[analyzers]]
 name = "docker"
 
+  [analyzers.meta]
+  dockerfile_paths = ["HRM1 /docker-files/"]
+
 [[analyzers]]
 name = "javascript"
 
