@@ -26,7 +26,7 @@
     "babel-preset-stage-2": "^6.24.1",
     "deepmerge": "^1.5.2",
     "es6-promise": "^4.2.4",
-    "hard-source-webpack-plugin": "^0.6.7",
+    "hard-source-webpack-plugin": "^0.13.1",
     "history": "^4.7.2",
     "isomorphic-fetch": "^2.2.1",
     "json5": "^0.5.1",
