@@ -61,7 +61,7 @@
     "react-grid-layout": "0.16.6",
     "react-slick": "0.25.2",
     "numeral": "2.0.6",
-    "oidc-client": "1.9.1",
+    "oidc-client": "1.11.1",
     "uuid": "^3.3.2",
     "mini-css-extract-plugin": "^0.8.0",
     "css-loader": "^3.2.0",
